@@ -2,7 +2,7 @@ bitstarter
 ==========
 <h3>Stanford's Startup Engineering Project:</h3> https://www.coursera.org/course/startup
 
-<h3>About:</h3> Bitcoin driven crowdfunder designed to teach backend/frontend Javascript, git best practices, and deploying with EC2 and Heroku.  
+<h3>About:</h3> Spiritual sequel to Peter Thiel's CS183 course on startups. Bridges the gap between academic computer science and production software engineering. Fast-paced introduction to key tools and techniques (command line, dotfiles, text editor, distributed version control, debugging, testing, documentation, reading code, deployments), featuring guest appearances by senior engineers from successful startups and large-scale academic projects. Over the course of the class, students will build a command line application, expose it as a web service, and then link other students' applications and services together to build an HTML5 mobile app.   
 
 <h3>Technologies Used:</h3> Node, Backbone, Coffeescript, Bootstrap, Git, and Github, Jetstrap and Bootstrap 2, Emacs, Amazon EC2, Heroku, Postgres
 

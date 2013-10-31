@@ -20,6 +20,6 @@ Summary and Demo Week
 
 <h3>My Sites</h3>
 I created a local preview, live staging site, and live production site using my three git branches. The production and staging sites are playgrounds for new projects but can be viewed at:<br>
-http://bcooktulane-bitstarter-mooc.herokuapp.com <br>
+http://bcooktulane-bitstarter-mooc.herokuapp.com (Heroku dyno might take a second to wake up) <br>
 http://bcooktulane-bitstarter-s-mooc.herokuapp.com
 

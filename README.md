@@ -7,8 +7,7 @@ bitstarter
 <h3>Technologies Used:</h3> Wireframing with Jetstrap, Bootstrap 2, Node JS, Emacs, Amazon EC2, Heroku, Postgres
 
 <h3>Syllabus:</h3>
-12 Weeks - 20 Hours per week 
-Introduction and Quickstart
+12 Weeks - 20 Hours per week <br>Introduction and Quickstart<br>
 Tools: VMs, IAAS/PAAS, Unix Command Line, Text Editors, DCVS
 Frontend: HTML/CSS/JS, Wireframing, Market Research
 Backend: SSJS, Databases, Frameworks, Data Pipelines

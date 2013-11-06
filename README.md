@@ -22,4 +22,7 @@ Summary and Demo Week
 I created a local preview, live staging site, and live production site using my three git branches. The production and staging sites are playgrounds for new projects but can be viewed at:<br>
 http://bcooktulane-bitstarter-mooc.herokuapp.com (Heroku dyno might take a second to wake up) <br>
 http://bcooktulane-bitstarter-s-mooc.herokuapp.com
+My staging branch evolved into something different and I wanted to preserve that project and also keep what I had in the master branch so I made a new repo bitstarter_two and a different Heroku app at 
+http://rocky-sierra-4165.herokuapp.com/
+
 
